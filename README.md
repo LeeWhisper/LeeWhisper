@@ -1,5 +1,4 @@
 ## Hi there 👋
-<p align="left">Hey there!</p>
 
 ###
 
